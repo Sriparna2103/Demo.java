@@ -4,6 +4,5 @@ public class Demo{
     System.out.println ("Hello from Demo");
          System.out.println ("Hello everyone from demo java here");
          System.out.println ("Hello World!!!");
-         System.out.println ("Updating this file");
     }
 }
